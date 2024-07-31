@@ -50,7 +50,7 @@ header a{
 }
 header ul li{
     float: left;
-  diplay: inline;
+    display: inline;
     padding: 0 20px;
 }
 header #branding{
